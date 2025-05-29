@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoProcessos", "ProjetoProcessos\ProjetoProcessos.csproj", "{17826EA6-5A85-431D-8D69-3F853274959F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupPROcess", "SetupPROcess\SetupPROcess.vdproj", "{6A99922D-A828-CADE-5D13-D633CB08936F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17826EA6-5A85-431D-8D69-3F853274959F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17826EA6-5A85-431D-8D69-3F853274959F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17826EA6-5A85-431D-8D69-3F853274959F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17826EA6-5A85-431D-8D69-3F853274959F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A99922D-A828-CADE-5D13-D633CB08936F}.Debug|Any CPU.ActiveCfg = Debug
+		{6A99922D-A828-CADE-5D13-D633CB08936F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64788A4B-7F9A-4985-AAE9-7A426DA25437}
+	EndGlobalSection
+EndGlobal
